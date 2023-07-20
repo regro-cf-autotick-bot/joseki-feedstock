@@ -1,5 +1,5 @@
 {% set name = "joseki" %}
-{% set version = "2.2.0" %}
+{% set version = "2.3.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/joseki-{{ version }}.tar.gz
-  sha256: 8308ed1de88667dccafc5a0db8572a76a8b02804443163d074d35c8fb51b07a1
+  sha256: 65c361cfb2a4630323cbd9795c7777301a050d4b25a3817b87ec85b7c993c39f
 
 build:
   entry_points:
@@ -48,7 +48,7 @@ about:
   summary: Reference atmosphere's thermophysical profiles for radiative transfer applications in Earth's atmosphere.
   license: MIT
   license_file: LICENSE
-  doc_url: https://nollety.github.io/joseki/
+  doc_url: https://nollety.github.io/joseki/2.3
 
 extra:
   recipe-maintainers:
