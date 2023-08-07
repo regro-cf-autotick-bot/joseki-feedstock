@@ -9,7 +9,7 @@ Package license: MIT
 
 Summary: Reference atmosphere's thermophysical profiles for radiative transfer applications in Earth's atmosphere.
 
-Documentation: https://nollety.github.io/joseki/
+Documentation: https://nollety.github.io/joseki/2.3
 
 Current build status
 ====================
