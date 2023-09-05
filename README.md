@@ -3,13 +3,13 @@ About joseki-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/joseki-feedstock/blob/main/LICENSE.txt)
 
-Home: https://github.com/nollety/joseki
+Home: https://github.com/rayference/joseki
 
 Package license: MIT
 
 Summary: Reference atmosphere's thermophysical profiles for radiative transfer applications in Earth's atmosphere.
 
-Documentation: https://nollety.github.io/joseki/2.3
+Documentation: https://rayference.github.io/joseki/2.4
 
 Current build status
 ====================
