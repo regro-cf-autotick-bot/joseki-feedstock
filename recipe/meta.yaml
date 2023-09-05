@@ -1,5 +1,5 @@
 {% set name = "joseki" %}
-{% set version = "2.4.0" %}
+{% set version = "2.5.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/joseki-{{ version }}.tar.gz
-  sha256: 9265387c47d80f7b763c6d6bb2abd3b72d9c18a01853a1e54291a85d68b3e0ce
+  sha256: a77e0ae433bf094aacb4f30f20b1d80ec79624915e4deceab7b58978a23184f4
 
 build:
   entry_points:
