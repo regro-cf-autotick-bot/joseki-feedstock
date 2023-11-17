@@ -48,7 +48,7 @@ about:
   summary: Reference atmosphere's thermophysical profiles for radiative transfer applications in Earth's atmosphere.
   license: MIT
   license_file: LICENSE
-  doc_url: https://rayference.github.io/joseki/2.4
+  doc_url: https://rayference.github.io/joseki/2.5.2
 
 extra:
   recipe-maintainers:
