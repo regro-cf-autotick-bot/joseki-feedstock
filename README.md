@@ -9,7 +9,7 @@ Package license: MIT
 
 Summary: Reference atmosphere's thermophysical profiles for radiative transfer applications in Earth's atmosphere.
 
-Documentation: https://rayference.github.io/joseki/2.4
+Documentation: https://rayference.github.io/joseki/2.5.2
 
 Current build status
 ====================
@@ -145,5 +145,6 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
+* [@leroyvn](https://github.com/leroyvn/)
 * [@nollety](https://github.com/nollety/)
 
