@@ -5,11 +5,11 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/joseki-feedstoc
 
 Home: https://github.com/rayference/joseki
 
-Package license: MIT
+Package license: LGPLv3
 
 Summary: Reference atmosphere's thermophysical profiles for radiative transfer applications in Earth's atmosphere.
 
-Documentation: https://rayference.github.io/joseki/2.5.2
+Documentation: https://rayference.github.io/joseki/latest
 
 Current build status
 ====================
