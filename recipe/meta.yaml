@@ -14,12 +14,12 @@ build:
     - joseki = joseki.__main__:main
   noarch: python
   script: {{ PYTHON }} -m pip install . -vv
-  number: 1
+  number: 2
 
 requirements:
   host:
     - python >=3.8
-    - pdm-pep517 >=1.0
+    - hatchling
     - pip
   run:
     - python >=3.8
@@ -46,9 +46,9 @@ test:
 about:
   home: https://github.com/rayference/joseki
   summary: Reference atmosphere's thermophysical profiles for radiative transfer applications in Earth's atmosphere.
-  license: MIT
+  license: LGPLv3
   license_file: LICENSE
-  doc_url: https://rayference.github.io/joseki/2.5.2
+  doc_url: https://rayference.github.io/joseki/latest
 
 extra:
   recipe-maintainers:
